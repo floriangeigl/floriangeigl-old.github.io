@@ -5,13 +5,6 @@ remote_theme: epidrome/cover-card@main
 title: 'Dr. Florian Geigl'
 description: 'K8s Product Manager Dynatrace.\n PhD in ComputerScience. K8s, DataScience, MachineLearning & Python enthusiast. Loves reading. Opinions are my own.'
 
-# Theme
-remote_theme: epidrome/cover-card@main
-
-# Title and tag line
-title: 'My name'
-description: 'I am amazing.'
-
 # Images
 avatar: 'avatar.jpg'
 background: 'background.jpg'
