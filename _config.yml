@@ -2,27 +2,37 @@
 remote_theme: epidrome/cover-card@main
 
 # Site Settings
-title: 'surfer & scholar'
-description: 'with the resistance, fighting zombies, augmenting human intellect.'
+title: 'Dr. Florian Geigl'
+description: 'K8s Product Manager Dynatrace. PhD in ComputerScience. K8s, DataScience, MachineLearning & Python enthusiast. Loves reading. Opinions are my own.'
 
 # Online profiles
-surfer: 'surfer.epidro.me'
-scholar: 'scholar.epidro.me'
+# surfer: 'surfer.epidro.me'
+# scholar: 'scholar.epidro.me'
 
 # Images
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
-social-links-order: [surfer,scholar]
+social-links-order: [Email,Twitter,GitHub,LinkedIn]
 
 social-links:
-  - name: surfer 
-    url-pattern: '__USERNAME__'
-    url-scheme: 'https://'
-    icon-class: fas fa-2x fa-snowboarding
+  - name: Email 
+    url-pattern: 'florian.geigl+githubpage@gmail.com'
+    url-scheme: 'mailto://'
+    icon-class: fas fa-envelope
 
-  - name: scholar 
-    url-pattern: '__USERNAME__'
+  - name: Twitter 
+    url-pattern: 'twitter.com/floriangeigl'
     url-scheme: 'https://'
-    icon-class: fas fa-2x fa-graduation-cap
+    icon-class: fab fa-twitter
+  
+  - name: LinkedIn 
+    url-pattern: 'www.linkedin.com/in/floriangeigl/'
+    url-scheme: 'https://'
+    icon-class: fab fa-linkedin
+    
+  - name: GitHub 
+    url-pattern: 'github.com/floriangeigl'
+    url-scheme: 'https://'
+    icon-class: fab fa-github
