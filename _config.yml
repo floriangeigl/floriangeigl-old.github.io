@@ -38,7 +38,7 @@ github-user: 'floriangeigl'
 email: 'florian.geigl+githubpage@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [email,twitter,github-user,linkedin]
+social-links-order: [email,twitter,linkedin,github-user]
 
 # Yaml manifest of supported social links
 # Requirements:
