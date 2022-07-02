@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Site Settings
 title: 'Dr. Florian Geigl'
-description: 'K8s Product Manager Dynatrace. PhD in ComputerScience. K8s, DataScience, MachineLearning & Python enthusiast. Loves reading. Opinions are my own.'
+description: 'K8s Product Manager Dynatrace.\n PhD in ComputerScience. K8s, DataScience, MachineLearning & Python enthusiast. Loves reading. Opinions are my own.'
 
 # Online profiles
 # surfer: 'surfer.epidro.me'
