@@ -33,7 +33,7 @@ github-user: 'floriangeigl'
 # vk: 'myvk'
 # blog_url: 'myblog.blog.com'
 email: 'florian.geigl+githubpage@gmail.com'
-strava: '61310121'
+strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
 social-links-order: [email,twitter,linkedin,github-user,strava]
