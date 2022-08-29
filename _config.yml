@@ -33,6 +33,7 @@ github-user: 'floriangeigl'
 # vk: 'myvk'
 # blog_url: 'myblog.blog.com'
 email: 'florian.geigl+githubpage@gmail.com'
+strava: '61310121'
 # messenger: 'myfbchat'
 
 social-links-order: [email,twitter,linkedin,github-user]
@@ -71,6 +72,11 @@ social-links:
   - name: github-user
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
+    
+ 
+  - name: strava
+    url-pattern: strava.com/athletes/__USERNAME__
+    icon-class: fab fa-2x fa-brands fa-strava
     
 #  - name: facebook
 #    url-pattern: facebook.com/__USERNAME__
