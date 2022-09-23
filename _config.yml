@@ -18,7 +18,7 @@ linkedin: 'floriangeigl'
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
-github-user: 'floriangeigl'
+github: 'floriangeigl'
 # gitlab-user: ''
 # codepen: ''
 # steam: ''
@@ -36,7 +36,7 @@ email: 'florian.geigl+githubpage@gmail.com'
 strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
-social-links-order: [email,twitter,linkedin,github-user,strava]
+social-links-order: [email,twitter,linkedin,github,strava]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -69,7 +69,7 @@ social-links:
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
  
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
     
