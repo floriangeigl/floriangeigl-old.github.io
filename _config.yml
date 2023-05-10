@@ -3,7 +3,7 @@ remote_theme: floriangeigl/cover-card@main
 
 # Site Settings
 title: 'Dr. Florian Geigl'
-description: 'K8s Product Manager @ Dynatrace. PhD in computer science. K8s, data science, machine learning & python enthusiast. Loves reading and sports. Opinions are my own.'
+description: 'Senior Product Manager @ Dynatrace focused on K8s. PhD in computer science. K8s, data science, machine learning & python enthusiast. Loves reading and sports. Opinions are my own.'
 
 # Images
 avatar: 'avatar.jpg'
