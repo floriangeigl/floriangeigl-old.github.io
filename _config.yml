@@ -3,7 +3,7 @@ remote_theme: floriangeigl/cover-card@main
 
 # Site Settings
 title: 'Dr. Florian Geigl'
-description: 'Senior Product Manager @ Dynatrace. PhD in computer science. Loves sports and reading. Opinions are my own.'
+description: '💼 Senior Product Manager @ Dynatrace. 👨‍🎓 PhD in computer science. 🛩️ Private Pilot. 🏃📚 Loves sports and reading. 🧠 Opinions are my own.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -13,12 +13,12 @@ favicon: 'favicon.ico'
 # Online profiles
 # dribbble: 'mydribbble'
 # facebook: 'myfacebook'
-twitter: 'floriangeigl'
+# twitter: 'floriangeigl'
 linkedin: 'floriangeigl'
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
-github: 'floriangeigl'
+# github: 'floriangeigl'
 # gitlab-user: ''
 # codepen: ''
 # steam: ''
@@ -33,7 +33,7 @@ github: 'floriangeigl'
 # vk: 'myvk'
 # blog_url: 'myblog.blog.com'
 email: 'florian.geigl+githubpage@gmail.com'
-strava: 'floriangeigl'
+# strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
 social-links-order: [email,twitter,linkedin,github,strava]
@@ -63,20 +63,20 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
     
-  - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+#  - name: twitter
+#    url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
  
-  - name: github
-    url-pattern: github.com/__USERNAME__
-    icon-class: fab fa-2x fa-github
+#  - name: github
+#    url-pattern: github.com/__USERNAME__
+#    icon-class: fab fa-2x fa-github
     
  
-  - name: strava
-    url-pattern: strava.com/athletes/__USERNAME__
-    icon-class: fab fa-2x fa-brands fa-strava
+#  - name: strava
+#    url-pattern: strava.com/athletes/__USERNAME__
+#    icon-class: fab fa-2x fa-brands fa-strava
     
 #  - name: facebook
 #    url-pattern: facebook.com/__USERNAME__
