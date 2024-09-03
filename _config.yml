@@ -38,7 +38,7 @@ email: 'florian.geigl+githubpage@gmail.com'
 # strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
-social-links-order: [email,twitter,linkedin,github,strava,work-url]
+social-links-order: [email,twitter,linkedin,github,strava,homebase,work-url]
 
 # Yaml manifest of supported social links
 # Requirements:
