@@ -63,7 +63,7 @@ social-links-order: [email,twitter,linkedin,github,strava,homebase,airbase,work-
 social-links:
   - name: email
     url-scheme: 'mailto:'
-    url-pattern: '__USERNAME__'
+    url-pattern: __USERNAME__
     icon-class: far fa-2x fa-envelope-open
     
 #  - name: twitter
@@ -73,15 +73,15 @@ social-links:
     url-pattern: linkedin.com/in/__USERNAME__
   
   - name: homebase
-    url-pattern: 'https://www.google.com/search?q=klagenfurt'
+    url-pattern: https://www.google.com/search?q=klagenfurt
     icon-class: fas fa-2x fa-location-dot
 
   - name: airbase
-    url-pattern: ' http://www.loxz.at/'
+    url-pattern: http://www.loxz.at/
     icon-class: fas fa-2x fa-plane
   
   - name: work-url
-    url-pattern: 'dynatrace.com'
+    url-pattern: dynatrace.com
     icon-class: fas fa-2x fa-briefcase
    
   
