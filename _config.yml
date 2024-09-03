@@ -17,6 +17,7 @@ favicon: 'favicon.ico'
 linkedin: 'floriangeigl'
 work-url: ''
 homebase: ''
+airbase: ''
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
@@ -38,7 +39,7 @@ email: 'florian.geigl+githubpage@gmail.com'
 # strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
-social-links-order: [email,twitter,linkedin,github,strava,homebase,work-url]
+social-links-order: [email,twitter,linkedin,github,strava,homebase,airbase,work-url]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -74,10 +75,15 @@ social-links:
   - name: homebase
     url-pattern: 'https://www.google.com/search?q=klagenfurt'
     icon-class: fas fa-2x fa-location-pin
+
+- name: airbase
+    url-pattern: ' http://www.loxz.at/'
+    icon-class: fas fa-2x fa-plane
   
   - name: work-url
     url-pattern: 'dynatrace.com'
     icon-class: fas fa-2x fa-briefcase
+   
   
 #  - name: github
 #    url-pattern: github.com/__USERNAME__
