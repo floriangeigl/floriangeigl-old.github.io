@@ -70,17 +70,21 @@ social-links:
 #    url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
+    url-scheme: 'https:'
     url-pattern: linkedin.com/in/__USERNAME__
   
   - name: homebase
-    url-pattern: https://www.google.com/search?q=klagenfurt
+    url-scheme: 'https:'
+    url-pattern: www.google.com/search?q=klagenfurt
     icon-class: fas fa-2x fa-location-dot
 
   - name: airbase
-    url-pattern: http://www.loxz.at/
+    url-scheme: 'http:'
+    url-pattern: www.loxz.at/
     icon-class: fas fa-2x fa-plane
   
   - name: work-url
+    url-scheme: 'https:'
     url-pattern: dynatrace.com
     icon-class: fas fa-2x fa-briefcase
    
