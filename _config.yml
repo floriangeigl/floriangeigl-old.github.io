@@ -3,7 +3,7 @@ remote_theme: floriangeigl/cover-card@main
 
 # Site Settings
 title: 'Dr. Florian Geigl'
-description: '💼 Senior Product Manager @ Dynatrace. 👨‍🎓 PhD in computer science. 🛩️ Private Pilot. 🏃📚 Loves sports and reading. 🧠 Opinions are my own.'
+description: '💼 Senior Product Manager @ Dynatrace</br>👨‍🎓 PhD in computer science</br>🛩️ Private Pilot</br>🏃📚 Loves sports and reading</br>🧠 Opinions are my own.'
 
 # Images
 avatar: 'avatar.jpg'
