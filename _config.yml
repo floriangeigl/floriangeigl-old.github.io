@@ -3,7 +3,7 @@ remote_theme: floriangeigl/cover-card@main
 
 # Site Settings
 title: 'Dr. Florian Geigl'
-description: '🏃📚 Loves sports and reading</br>🛩️ Private Pilot</br>👨‍🎓 PhD in Computer Science</br>💼 <a href="https://www.linkedin.com/in/floriangeigl/">Senior Product Manager</a> @ <a href="https://www.dynatrace.com/">Dynatrace</a></br>🧠 Opinions are my own.'
+description: '🏃📚 Loves sports and reading</br>🛩️ Private Pilot</br>👨‍🎓 PhD in Computer Science</br>💼 Senior Product Manager @ Dynatrace</br>🧠 Opinions are my own.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -15,6 +15,7 @@ favicon: 'favicon.ico'
 # facebook: 'myfacebook'
 # twitter: 'floriangeigl'
 linkedin: 'floriangeigl'
+work-url: ''
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
@@ -36,7 +37,7 @@ email: 'florian.geigl+githubpage@gmail.com'
 # strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
-social-links-order: [email,twitter,linkedin,github,strava]
+social-links-order: [email,twitter,linkedin,github,strava,work-url]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -68,7 +69,11 @@ social-links:
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
- 
+  
+  - name: work-url
+    url-pattern: 'dynatrace.com'
+    icon-class: fas fa-2x fa-briefcase
+  
 #  - name: github
 #    url-pattern: github.com/__USERNAME__
 #    icon-class: fab fa-2x fa-github
