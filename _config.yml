@@ -3,7 +3,7 @@ remote_theme: floriangeigl/cover-card@main
 
 # Site Settings
 title: 'Dr. Florian Geigl'
-description: '🏃📚 Loves sports and reading</br>🛩️ Private Pilot LOXZ</br>👨‍🎓 PhD in Computer Science</br>🌍Based in Klagifornia/Austria</br>💼 Senior Product Manager @ Dynatrace'
+description: '🏃📚 Loves sports and reading</br>🛩️ Private Pilot LOXZ</br>👨‍🎓 PhD in Computer Science</br>🌍 Based in Klagifornia/Austria</br>💼 Senior Product Manager @ Dynatrace'
 
 # Images
 avatar: 'avatar.jpg'
@@ -15,7 +15,7 @@ favicon: 'favicon.ico'
 # facebook: 'myfacebook'
 # twitter: 'floriangeigl'
 linkedin: 'floriangeigl'
-work-url: ''
+dynatrace: ''
 homebase: ''
 airbase: ''
 # instagram: 'myinsta'
@@ -39,7 +39,7 @@ email: 'florian.geigl+githubpage@gmail.com'
 # strava: 'floriangeigl'
 # messenger: 'myfbchat'
 
-social-links-order: [email,twitter,linkedin,github,strava,homebase,airbase,work-url]
+social-links-order: [email,twitter,linkedin,github,strava,homebase,airbase,dynatrace]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -81,7 +81,7 @@ social-links:
     url-pattern: loxz.at
     icon-class: fas fa-2x fa-plane
   
-  - name: work-url
+  - name: dynatrace
     url-pattern: dynatrace.com
     icon-class: fas fa-2x fa-briefcase
    
